@@ -11,6 +11,8 @@ Options:
 --decompile <path>: Decompiles a localization format file to JSON.
 --recompile <path>: Recompiles JSON data back into the localization format.
 --verify <original> <translation>: Verify a translation against the original data.
+
+ex: CS2LocaleCompiler --decompile "D://en-US.loc"
 ```
 
 ## Requirements

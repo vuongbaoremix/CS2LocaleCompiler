@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CS2LocaleCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "--verify \"E:\\Games\\Cities Skylines II\\Cities2_Data\\StreamingAssets\\Data~\\en-US.loc\" \"E:\\Games\\Cities Skylines II\\Cities2_Data\\StreamingAssets\\Data~\\ru-RU.loc\""
+    }
+  }
+}

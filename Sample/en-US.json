@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "localeId":"en-US",
-  "systemLanguage":"English",
+  "localeId": "en-US",
+  "systemLanguage": "English",
   "localizedName": "English",
   "indexCounts": {
     "Chirper.FIRST_POWER_PLANT": 1,
@@ -16558,6 +16558,13 @@
     "Menu.ASSET_SCREENSHOT_EMPTY_TITLE": "There seems to be nothing in here!",
     "Menu.ASSET_SCREENSHOT_EMPTY_SUBTITLE": "Use photo mode to capture some preview images",
     "Toolbar.CURRENT_TREND": "Current trend:",
-    "Common.DIALOG_MESSAGE[ConfirmRemoteStorageWipe]": "This will wipe out ALL content from the select cloud target. Are you sure you wish to proceed?"
+    "Common.DIALOG_MESSAGE[ConfirmRemoteStorageWipe]": "This will wipe out ALL content from the select cloud target. Are you sure you wish to proceed?",
+    "GameListScreen.GAME_OPTION[shareMap]": "Share Map",
+    "GameListScreen.GAME_OPTION_DESCRIPTION[shareMap]": "Share the map on PDX Mods for others to enjoy.",
+    "Options.OPTION[shareMap]": "Share Map",
+    "Menu.ASSET_TYPE[Map]": "Map",
+    "Common.DIALOG_MESSAGE[OverwriteMap]": "A map with this name already exists. Do you wish to overwrite it?",
+    "Paradox.ACCOUNT_LINK_OVERWRITE_TITLE": "Account already linked",
+    "Options.DYNRESUPSCALEFILTER[DLSS]": "Nvidia DLSS2"
   }
 }
